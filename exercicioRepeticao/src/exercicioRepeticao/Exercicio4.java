@@ -38,18 +38,15 @@ public class Exercicio4 {
 			System.out.println("Digite sua Função: ");
 			funcao = leia.nextInt();
 			
-			//Total de pessoas que gostam de futebol
 			if(funcao == 1) {
 				backend++;
 			}
 			
-			//Total de pessoal que gostam de Volei e tem + de 18 anos
 			
-			if (genero == 2 || genero == 4 && funcao == 2 ) {
+			if (genero == 1 || genero == 4 && funcao == 2 ) {
 				metfrontend++;
 			}
 			
-			// Total de pessoas que gostam de Basquete e tem - de 18 anos
 			
 			if (genero == 2 || genero == 5 && idade < 40) {
 				hetmobiM40++;
@@ -65,8 +62,8 @@ public class Exercicio4 {
 			totalRespostas ++;
 			
 			System.out.println("Deseja continuar (S/N)?");
-			leia.skip("\\R"); //Ignora o pulo de linha para guardar a informação digitada usada somente em String
-			continua = leia.nextLine().toUpperCase(); // toUpperCase serve para ignorar leitra maiuscula ou minuscula
+			leia.skip("\\R"); 
+			continua = leia.nextLine().toUpperCase(); 
 	
 		}
 		
