@@ -24,6 +24,8 @@ public class Exercicio3 {
 		
 		System.out.printf("O valor do salário liquido é de: %.2f", (salarioB + adicionalN + (horasE * 5)) - des);
 		
+		leia.close();
+		
 
 	}
 

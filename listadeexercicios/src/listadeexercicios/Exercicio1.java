@@ -18,6 +18,8 @@ public class Exercicio1 {
 		
 		System.out.printf("Seu novo salario é: %.2f", salario + abono);
 		
+		leia.close();
+		
 
 	}
 

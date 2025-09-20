@@ -24,6 +24,8 @@ public class Exercicio2 {
 		
 		System.out.printf("Sua média final é: %.1f", (n1 + n2 + n3 + n4)/4);
 		
+		leia.close();
+		
 
 	}
 

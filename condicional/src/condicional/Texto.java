@@ -7,7 +7,7 @@ public class Texto {
 	public static void main(String[] args) {
 		
 		Scanner leia = new Scanner(System.in);
-		String texto;
+		String texto = new String();
 		
 		System.out.println();
 		leia.skip("\\R");

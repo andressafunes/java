@@ -24,6 +24,8 @@ public class Exercicio4 {
 		
 		System.out.printf("A diferencia entre o produto de %.1f * %.1f e %.1f * %.1f é: %.1f",n1 ,n2, n3, n4, (n1 * n2) - (n3 * n4));
 		
+		leia.close();
+		
 
 	}
 
