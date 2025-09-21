@@ -7,15 +7,15 @@
 </div>
 <br />
 
-
 <div align="center">
-  <img src="https://img.shields.io/github/languages/top/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/rafaelq80/aulas_java_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/rafaelq80/aulas_java_t82?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/andressafunes/java?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/andressafunes/java?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/count/andressafunes/java?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/andressafunes/java?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/andressafunes/java?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/andressafunes/java?style=flat-square" />
 </div>
+
 
 ------
 
@@ -65,7 +65,7 @@ Para executar os códigos localmente, você precisará de:
 1. Clone o repositório [Aulas Java](https://github.com/rafaelq80/aulas_java_t82) dentro da pasta do *Workspace* do Eclipse/STS
 
 ```bash
-git clone https://github.com/rafaelq80/aulas_java_t82.git
+git clone https://github.com/andressafunes/java.git
 ```
 
 2. **Abra o Eclipse/STS** e selecione a pasta do *Workspace* onde você clonou o repositório
